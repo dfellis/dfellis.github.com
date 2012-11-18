@@ -46,7 +46,7 @@ body > img {
 .sidebar {
     position: fixed;
     left: 0px;
-    top: 300px;
+    top: 50px;
     width: 175px;
     background: #DEDEDE;
     -webkit-border-radius: 0px 8px 8px 0px;
