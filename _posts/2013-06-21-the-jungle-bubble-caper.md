@@ -4,12 +4,12 @@ title: The Jungle Bubble Caper
 subtitle: By David and Alexander Ellis
 ---
 
-* Who is the good guy? **A kid**
-* Who is the bad guy? **Another kid**
-* What is the good guy's problem? **His bubbles aren't working**
-* Where are they? **In the jungle with monkeys**
+- Who is the good guy? **A kid** 
+- Who is the bad guy? **Another kid** 
+- What is the good guy's problem? **His bubbles aren't working** 
+- Where are they? **In the jungle with monkeys** 
 
-# The Jungle Bubble Caper
+## The Jungle Bubble Caper
 
 Once upon a time, in a jungle far away, a boy named Mike was blowing bubbles for his monkey friends. The monkeys were excited by these bubbles, happy and scared all at once. When Mike blew into the bubble wand, the bubbles seemed to appear in front of his face out of nowhere! Once they were there, though, they floated lazily around, until they popped and disappeared again, and Mike would start again blowing up a new set of bubbles.
 
